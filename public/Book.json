@@ -1,0 +1,80 @@
+[
+    {
+        "bookId": 1,
+        "bookName": "The Silent Patient",
+        "author": "Alex Michaelides",
+        "image": "https://i.ibb.co/2nRmF00/kindpng-2193744-1.png",
+        "review": "A thrilling and captivating psychological mystery.",
+        "totalPages": 336,
+        "rating": 4.5,
+        "category": "Thriller",
+        "tags": ["Suspense", "Psychological"],
+        "publisher": "Celadon Books",
+        "yearOfPublishing": 2019
+    },
+    {
+        "bookId": 2,
+        "bookName": "Where the Crawdads Sing",
+        "author": "Delia Owens",
+        "image": "https://i.ibb.co/xGzvC7g/kindpng-81724-1.png",
+        "review": "A beautifully written novel that blends mystery, romance, and nature.",
+        "totalPages": 384,
+        "rating": 4.8,
+        "category": "Fiction",
+        "tags": ["Mystery", "Romance"],
+        "publisher": "G.P. Putnam's Sons",
+        "yearOfPublishing": 2018
+    },
+    {
+        "bookId": 3,
+        "bookName": "Educated",
+        "author": "Tara Westover",
+        "image": "https://i.ibb.co/cc9qNMH/kindpng-4022054-1.png",
+        "review": "An inspiring memoir about the transformative power of education.",
+        "totalPages": 334,
+        "rating": 4.7,
+        "category": "Memoir",
+        "tags": ["Biography", "Inspiration"],
+        "publisher": "Random House",
+        "yearOfPublishing": 2018
+    },
+    {
+        "bookId": 4,
+        "bookName": "Becoming",
+        "author": "Michelle Obama",
+        "image": "https://i.ibb.co/DfLVL73/kindpng-1064993.png",
+        "review": "A deeply personal and inspiring memoir by the former First Lady.",
+        "totalPages": 448,
+        "rating": 4.9,
+        "category": "Memoir",
+        "tags": ["Biography", "Inspiration"],
+        "publisher": "Crown Publishing Group",
+        "yearOfPublishing": 2018
+    },
+    {
+        "bookId": 5,
+        "bookName": "The Great Alone",
+        "author": "Kristin Hannah",
+        "image": "https://i.ibb.co/bKkpVQx/kindpng-7318921.png",
+        "review": "A gripping tale of survival and resilience set in the Alaskan wilderness.",
+        "totalPages": 448,
+        "rating": 4.6,
+        "category": "Historical Fiction",
+        "tags": ["Survival", "Family"],
+        "publisher": "St. Martin's Press",
+        "yearOfPublishing": 2018
+    },
+    {
+        "bookId": 6,
+        "bookName": "Circe",
+        "author": "Madeline Miller",
+        "image": "https://i.ibb.co/YyWnCsK/pngwing-1.png",
+        "review": "A brilliantly imagined retelling of the life of the enchantress from the Odyssey.",
+        "totalPages": 393,
+        "rating": 4.7,
+        "category": "Fantasy",
+        "tags": ["Mythology", "Adventure"],
+        "publisher": "Little, Brown and Company",
+        "yearOfPublishing": 2018
+    }
+]
