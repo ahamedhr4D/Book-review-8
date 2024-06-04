@@ -1,9 +1,13 @@
+
+import { Link } from "react-router-dom";
 import icon from "../../assets/image/icons.jpg.png"
 
 const Cardlist = (item) => {
-    console.log(item);
+    //console.log(item);
     const {bookId,bookName,author,image,review,totalPages,rating,category,tags,publisher,yearOfPublishing}=item.item || {};
     return (
+       <>
+       <Link to={`/bookdtails/${bookId}`}>
         <div>
             <div className="card w-96 bg-gray-100 shadow-xl">
                     <figure><img className="w-40  mt-10 rounded-2xl" src={image} alt="Shoes" /></figure>
@@ -29,6 +33,9 @@ const Cardlist = (item) => {
                     </div>
                 </div>
         </div>
+        </Link>
+        </>
+      
     );
 };
 
